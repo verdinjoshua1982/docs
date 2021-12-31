@@ -1,4 +1,5 @@
----
+---joshua verdin
+
 title: Writing on GitHub
 redirect_from:
   - /categories/88/articles
