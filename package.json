@@ -154,7 +154,7 @@
     ]
   },
   "dependencies": {
-    "@elastic/elasticsearch": "8.13.1",
+    "@elastic/elasticsearch": "8.14.0",
     "@github/failbot": "0.8.3",
     "@gr2m/gray-matter": "4.0.3-with-pr-137",
     "@horizon-rs/language-guesser": "0.1.1",
